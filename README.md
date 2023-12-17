@@ -2,7 +2,7 @@
 # Task Overview
 Welcome to the Adversarial Attack challenge! In this task, I performed a non-targeted attack on pre-trained models using the Iterative-Fast Gradient Sign Method (i-FGSM) and its variants. The task involves manipulating benign images from the CIFAR-10 dataset to generate adversarial samples while adhering to specific constraints.
 
-#Methodologies to be Familiar With
+# Methodologies to be Familiar With
 Before diving into the task, make sure you understand the following methodologies:
 
 Attack Objective: Non-targeted attack
